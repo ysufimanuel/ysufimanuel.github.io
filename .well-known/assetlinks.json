@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ysufimanuel.cms",
+      "sha256_cert_fingerprints": [
+        "FD:01:16:05:5A:F3:04:8D:65:13:BA:B8:29:36:DF:95:62:6C:24:21:44:C4:D5:D7:FB:E7:B9:88:F0:7F:F4:E3"
+      ]
+    }
+  }
+]
